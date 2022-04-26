@@ -124,7 +124,7 @@ function check(input) {
 		if (e.found != undefined)
 			continue;
 
-		if (similarity(nameNoNumber.join(' '), input) > 0.85 || similarity(e.alternateName, input) > 0.85)
+		if (similarity(nameNoNumber.join(' '), input) > 0.85 || similarity(e.alternateName, input) > 0.85 || e.adress == input)
 		{
 			putDot(parseFloat(e.coords[0]), parseFloat(e.coords[1]));
 			found = true;
