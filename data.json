@@ -1,0 +1,493 @@
+[
+	{
+		"name": "Amstelveenseweg 186",
+		"adress": "1075XR",
+		"coords": ["52.3522709","4.8552208"]
+	},
+	{
+		"name": "August Allebeplein 12",
+		"adress": "1062AC",
+		"coords": ["52.3635956","4.8358419"]
+	},
+	{
+		"name": "Belgieplein 107",
+		"adress": "1066RC",
+		"coords": ["52.3457121","4.8098232"]
+	},
+	{
+		"name": "Bercylaan 5",
+		"adress": "1031KP",
+		"coords": ["52.3848119","4.901448"]
+	},
+	{
+		"name": "Bijlmerplein 526",
+		"adress": "1102DP",
+		"coords": ["52.3157423","4.9522118"]
+	},
+	{
+		"name": "Bilderdijkstraat 37H",
+		"adress": "1053KK",
+		"coords": ["52.3708271","4.8685095"]
+	},
+	{
+		"name": "Bos en Lommerweg 117",
+		"adress": "1055DR",
+		"coords": ["52.3817006","4.8537736"]
+	},
+	{
+		"name": "Buikslotermeerplein 310",
+		"adress": "1025GB",
+		"coords": ["52.3974579","4.9375804"]
+	},
+	{
+		"name": "Celebesstraat 43",
+		"adress": "1094EN",
+		"coords": ["52.3632863","4.9295932"]
+	},
+	{
+		"name": "Cornelis Lelylaan 35",
+		"adress": "1062HD",
+		"coords": ["52.3573943","4.8318581"]
+	},
+	{
+		"name": "Cornelis Troostplein 11",
+		"adress": "1072JJ",
+		"coords": ["52.3510344","4.8897022"]
+	},
+	{
+		"name": "Damrak 89",
+		"adress": "1012LP",
+		"coords": ["52.3739688","4.8916327"]
+	},
+	{
+		"name": "De Boelelaan 1110",
+		"adress": "1081HZ",
+		"coords": ["52.3355215","4.8576827"]
+	},
+	{
+		"name": "Delflandplein 31",
+		"adress": "1062HP",
+		"coords": ["52.3488818","4.8382435"]
+	},
+	{
+		"name": "De Ruijterkade 24",
+		"alternateName": "Centraal Station",
+		"adress": "1012AA",
+		"coords": ["52.3798296","4.8974858"]
+	},
+	{
+		"name": "Eef Kamerbeekstraat 186",
+		"adress": "1095MP",
+		"coords": ["52.3731593","4.9620515"]
+	},
+	{
+		"name": "Eerste Oosterparkstraat 100",
+		"adress": "1091HE",
+		"coords": ["52.3566561","4.9100557"]
+	},
+	{
+		"name": "Eerste Van Swindenstraat 91",
+		"adress": "1093EZ",
+		"coords": ["52.3624701","4.9234338"]
+	},
+	{
+		"name": "Elandsgracht 13A",
+		"adress": "1016TM",
+		"coords": ["52.3697523","4.879646"]
+	},
+	{
+		"name": "Frederik Hendrikstraat 81",
+		"adress": "1052HM",
+		"coords": ["52.3753126","4.8715575"]
+	},
+	{
+		"name": "Frederiksplein 1",
+		"adress": "1017XK",
+		"coords": ["52.3612655","4.8977647"]
+	},
+	{
+		"name": "Gelderlandplein 47",
+		"adress": "1082KZ",
+		"coords": ["52.3310438","4.8756417"]
+	},
+	{
+		"name": "Gerrit van der Veenstraat 57",
+		"adress": "1077DP",
+		"coords": ["52.3488092","4.8757103"]
+	},
+	{
+		"name": "Gulden Winckelplantsoen 5",
+		"adress": "1055EK",
+		"coords": ["52.3787137","4.8445647"]
+	},
+	{
+		"name": "Haarlemmerdijk 1",
+		"adress": "1013JZ",
+		"coords": ["52.3816492","4.8865841"]
+	},
+	{
+		"name": "Haarlemmerplein 34",
+		"adress": "1013HS",
+		"coords": ["52.385087","4.8819123"]
+	},
+	{
+		"name": "Harriet Freezerstraat 96",
+		"adress": "1103JP",
+		"coords": ["52.3226271","4.9699728"]
+	},
+	{
+		"name": "Helmholtzstraat 63",
+		"adress": "1098LE",
+		"coords": ["52.3500368","4.9372063"]
+	},
+	{
+		"name": "Hoekenrode 9",
+		"adress": "1102BR",
+		"coords": ["52.3120276","4.9454402"],
+		"alternateName": "Bijlmer ArenA"
+	},
+	{
+		"name": "IJburglaan 719",
+		"adress": "1087BS",
+		"coords": ["52.3580471","4.9884387"]
+	},
+	{
+		"name": "Jan Evertsenstraat 24",
+		"adress": "1056EC",
+		"coords": ["52.3714875","4.8557265"]
+	},
+	{
+		"name": "Jan Pieter Heijestraat 132H",
+		"adress": "1054MJ",
+		"coords": ["52.3622495","4.8619513"]
+	},
+	{
+		"name": "Jan van Galenstraat 87",
+		"adress": "1056BJ",
+		"coords": ["52.3748217","4.8591549"]
+	},
+	{
+		"name": "Jodenbreestraat 21",
+		"adress": "1011NH",
+		"coords": ["52.3689513","4.9011678"]
+	},
+	{
+		"name": "Johannes Verhulststraat 149",
+		"adress": "1071NB",
+		"coords": ["52.3536216","4.8675361"]
+	},
+	{
+		"name": "Julianaplein 7",
+		"adress": "1097DN",
+		"coords": ["52.3455062","4.9166658"]
+	},
+	{
+		"name": "Karspeldreef 1389",
+		"adress": "1104SE",
+		"coords": ["52.316303","4.9765756"]
+	},
+	{
+		"name": "Kinkerstraat 89",
+		"adress": "1053DJ",
+		"coords": ["52.3666117","4.8682575"]
+	},
+	{
+		"name": "Kleine Wittenburgerstraat 18",
+		"adress": "1018LW",
+		"coords": ["52.369961","4.9176314"]
+	},
+	{
+		"name": "Krugerplein 3",
+		"adress": "1092JZ",
+		"coords": ["52.3547868","4.917963"]
+	},
+	{
+		"name": "Lambertus Zijlplein 8",
+		"adress": "1067JS",
+		"coords": ["52.3773223","4.7995135"]
+	},
+	{
+		"name": "Land van Cocagneplein 3",
+		"adress": "1093NB",
+		"coords": ["52.3570538","4.9260433"]
+	},
+	{
+		"name": "Leidseplein 31",
+		"adress": "1017PS",
+		"coords": ["52.3634323","4.8800029"]
+	},
+	{
+		"name": "Leidsestraat 106108",
+		"adress": "1017PG",
+		"coords": ["52.3645868","4.8810368"]
+	},
+	{
+		"name": "Maasstraat 47",
+		"adress": "1078HD",
+		"coords": ["52.3460372","4.8930592"]
+	},
+	{
+		"name": "Meibergdreef 9",
+		"adress": "1105AZ",
+		"coords": ["52.2909041","4.950659"]
+	},
+	{
+		"name": "Weesperplein 1",
+		"adress": "1018XA",
+		"coords": ["52.3623388","4.9060497"]
+	},
+	{
+		"name": "Molenwijk 35",
+		"adress": "1035EG",
+		"coords": ["52.4176475","4.8910652"]
+	},
+	{
+		"name": "Molukkenstraat 101A",
+		"adress": "1095AZ",
+		"coords": ["52.3626511","4.939638"]
+	},
+	{
+		"name": "Molukkenstraat 308",
+		"adress": "1098TW",
+		"coords": ["52.3577307","4.9383763"]
+	},
+	{
+		"name": "Mosveld 129",
+		"adress": "1031AD",
+		"coords": ["52.3904118","4.9129701"]
+	},
+	{
+		"name": "ms. van Riemsdijkweg 186",
+		"adress": "1033RD",
+		"coords": ["52.4018421","4.8921946"]
+	},
+	{
+		"name": "Nieuwendijk 182",
+		"adress": "1012MV",
+		"coords": ["52.3748439","4.8914787"]
+	},
+	{
+		"name": "Nieuwezijds Voorburgwal 226",
+		"adress": "1012RR",
+		"coords": ["52.37285","4.8880311"]
+	},
+	{
+		"name": "Nieuwmarkt 18",
+		"adress": "1012CR",
+		"coords": ["52.3727072","4.8975229"]
+	},
+	{
+		"name": "Nieuwpoortstraat 100H",
+		"adress": "1055RZ",
+		"coords": ["52.3841906","4.8544906"]
+	},
+	{
+		"name": "Oostelijke Handelskade 1065",
+		"adress": "1019BW",
+		"coords": ["52.3743676","4.9345137"]
+	},
+	{
+		"name": "Oosterdokskade 65",
+		"adress": "1011DL",
+		"coords": ["52.3758989","4.9052892"]
+	},
+	{
+		"name": "Orlyplein 113",
+		"adress": "1043DT",
+		"coords": ["52.3890497","4.836026"],
+		"alternateName": "Sloterdijk"
+	},
+	{
+		"name": "Osdorpplein 469",
+		"adress": "1068SZ",
+		"coords": ["52.3591336","4.8008229"]
+	},
+	{
+		"name": "Overtoom 116H",
+		"adress": "1054HM",
+		"coords": ["52.3627939","4.8723455"]
+	},
+	{
+		"name": "Overtoom 21",
+		"adress": "1054HA",
+		"coords": ["52.363297","4.8756063"]
+	},
+	{
+		"name": "Overtoom 454H",
+		"adress": "1054JW",
+		"coords": ["52.3596701","4.8600006"]
+	},
+	{
+		"name": "Peter Schatstraat 65",
+		"adress": "1082MX",
+		"coords": ["52.3364179","4.8699402"]
+	},
+	{
+		"name": "Pieter Calandlaan 212A",
+		"adress": "1069LA",
+		"coords": ["52.3521597","4.7971359"]
+	},
+	{
+		"name": "Postjesweg 65H",
+		"adress": "1057DW",
+		"coords": ["52.3641091","4.8530712"]
+	},
+	{
+		"name": "Prins Hendrikkade 20",
+		"adress": "1012TL",
+		"coords": ["52.3785639","4.893991"]
+	},
+	{
+		"name": "Reguliersbreestraat 22a",
+		"adress": "1017CN",
+		"coords": ["52.3666321","4.89369"]
+	},
+	{
+		"name": "Rietwijkerstraat 22H",
+		"adress": "1059XA",
+		"coords": ["52.3493203","4.8476342"]
+	},
+	{
+		"name": "Rijnstraat 139",
+		"adress": "1079HC",
+		"coords": ["52.3433927","4.9044029"]
+	},
+	{
+		"name": "Rijnstraat 33",
+		"adress": "1078PW",
+		"coords": ["52.3476451","4.9028397"]
+	},
+	{
+		"name": "Rokin 36",
+		"adress": "1012KT",
+		"coords": ["52.3714005","4.8902493"]
+	},
+	{
+		"name": "Sarphatistraat 141K",
+		"adress": "1018GD",
+		"coords": ["52.3622778","4.9101471"]
+	},
+	{
+		"name": "Sarphatistraat 670",
+		"adress": "1018AV",
+		"coords": ["52.366156","4.9225074"]
+	},
+	{
+		"name": "Scheldeplein 5",
+		"adress": "1078GR",
+		"coords": ["52.3442971","4.8892295"]
+	},
+	{
+		"name": "Sierplein 78",
+		"adress": "1065LN",
+		"coords": ["52.3548669","4.824481"]
+	},
+	{
+		"name": "Spaarndammerdijk 3",
+		"adress": "1013ZM",
+		"coords": ["52.3916626","4.8755813"]
+	},
+	{
+		"name": "Spoorslag 19",
+		"adress": "1082MM",
+		"coords": ["52.3382355","4.8711226"]
+	},
+	{
+		"name": "Stadhouderskade 101",
+		"adress": "1073AW",
+		"coords": ["52.3573831","4.8948978"]
+	},
+	{
+		"name": "Stadionplein 115",
+		"adress": "1076CK",
+		"coords": ["52.3445988","4.8549224"]
+	},
+	{
+		"name": "Stadionweg 159",
+		"adress": "1076NN",
+		"coords": ["52.3458755","4.8617514"]
+	},
+	{
+		"name": "Stationsplein 45F",
+		"adress": "1012AB",
+		"coords": ["52.3783702","4.8980482"],
+		"alternateName":"Centraal Station"
+	},
+	{
+		"name": "Stationsplein 7",
+		"adress": "1012AB",
+		"coords": ["52.3780615","4.9007307"],
+		"alternateName":"Centraal Station"
+	},
+	{
+		"name": "Termini 25",
+		"adress": "1022LB",
+		"coords": ["52.4021999","4.9302761"],
+		"alternateName": "Noord"
+	},
+	{
+		"name": "Utrechtsestraat 17",
+		"adress": "1017VH",
+		"coords": ["52.3655696","4.8957755"]
+	},
+	{
+		"name": "Van Baerlestraat 33A",
+		"adress": "1071AP",
+		"coords": ["52.3571432","4.8775004"]
+	},
+	{
+		"name": "Van Limburg Stirumstraat 44",
+		"adress": "1051BC",
+		"coords": ["52.3836007","4.8738336"]
+	},
+	{
+		"name": "Van Woustraat 150",
+		"adress": "1073LV",
+		"coords": ["52.352776","4.9003871"]
+	},
+	{
+		"name": "Vijzelstraat 113",
+		"adress": "1017HJ",
+		"coords": ["52.3628373","4.890016"]
+	},
+	{
+		"name": "Waterlandplein 255",
+		"adress": "1024LT",
+		"coords": ["52.3923707","4.9540067"]
+	},
+	{
+		"name": "Westermarkt 21",
+		"adress": "1016DJ",
+		"coords": ["52.3737026","4.8817801"]
+	},
+	{
+		"name": "Westerstraat 79",
+		"adress": "1015LW",
+		"coords": ["52.3784213","4.8822492"]
+	},
+	{
+		"name": "Weteringschans 165D",
+		"adress": "1017XD",
+		"coords": ["52.3597189","4.8894089"]
+	},
+	{
+		"name": "Wibautstraat 80",
+		"adress": "1091GP",
+		"coords": ["52.3557072","4.9085927"]
+	},
+	{
+		"name": "Willem Kraanstraat 2",
+		"adress": "1063MG",
+		"coords": ["52.379749","4.8211833"]
+	},
+	{
+		"name": "Zeilstraat 47H",
+		"adress": "1075SC",
+		"coords": ["52.3506867","4.8516427"]
+	},
+	{
+		"name": "Zuidplein 24",
+		"adress": "1077XV",
+		"coords": ["52.3406243","4.8706127"]
+	}
+]
